@@ -1,0 +1,33 @@
+_repo: Voyages-du-capitaine-Robert-Lade-en-differentes-parties-de-l-Afrique-de-l-Asie-et-de-l-Am-riq__23610
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prévost, abbé
+    aliases:
+    - Prévost, Antoine François, called Prévost d'Exiles
+    - Prevost, abbe
+    - Prevost, Antoine Francois
+    birthdate: 1697
+    deathdate: 1763
+    gutenberg_agent_id: '250'
+    url: http://www.gutenberg.org/2009/agents/250
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2007-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23610'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+title: Voyages du capitaine Robert Lade en differentes parties de l'Afrique, de l'Asie
+  et de l'Amérique
+url: http://www.gutenberg.org/ebooks/23610
